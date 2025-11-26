@@ -1,0 +1,7 @@
+{
+  "name": "5S Audit Pro",
+  "description": "A comprehensive 5S Audit management application with digital signatures, action plans, and detailed reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
